@@ -1,0 +1,17 @@
+
+body{
+    background-color: rgb(227, 234, 232);
+}
+.junk_items,.lunch_items,.breakfast_items,.calorie_items,.all_items{
+    display: flex;
+    border:2px solid black;
+    height:120px;
+    width:240px;
+    margin-bottom: 10px;
+}
+button{
+    font-size: 30px;
+}
+button:hover{
+    text-decoration: underline;
+}
